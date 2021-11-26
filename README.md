@@ -1,4 +1,5 @@
 # Mein erste Git Repo
+Hier liegen meine Bash-Skripte.
 
-- 2021-11-26
+- Datum: 2021-11-26
 - Rabea Müller
